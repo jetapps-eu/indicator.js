@@ -6,7 +6,10 @@
     "@hopkinschris"
   ],
   "description": "A visual password strength indicator inspired by Stripe and Strength.js",
-  "main": "src/indicator.js src/indicator.css",
+  "main": [
+    "src/indicator.js",
+    "src/indicator.css"
+  ],
   "keywords": [
     "password",
     "strength",
