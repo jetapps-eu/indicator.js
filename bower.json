@@ -1,0 +1,27 @@
+{
+  "name": "indicator.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hopkinschris/indicator.js",
+  "authors": [
+    "@hopkinschris"
+  ],
+  "description": "A visual password strength indicator inspired by Stripe and Strength.js",
+  "main": "src/indicator.js src/indicator.css",
+  "keywords": [
+    "password",
+    "strength",
+    "indicator"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2"
+  },
+  "devDependencies": {}
+}
